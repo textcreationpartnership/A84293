@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An expedient for the preventing any difference between His Highness and the Parliament. About the recognition. The negative voyce. The militia. By a lover of his country, that desires at this time to be namelesse.</title>
+            <author>Lover of his country, that desires at this time to be namelesse.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84293</idno>
+            <idno type="STC">Wing E3873</idno>
+            <idno type="STC">Thomason E968_9</idno>
+            <idno type="EEBO-CITATION">99862434</idno>
+            <idno type="PROQUEST">99862434</idno>
+            <idno type="VID">168541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168541)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 144:E968[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An expedient for the preventing any difference between His Highness and the Parliament. About the recognition. The negative voyce. The militia. By a lover of his country, that desires at this time to be namelesse.</title>
+                  <author>Lover of his country, that desires at this time to be namelesse.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Giles Calvert, at the Black-spread-Eagle, at the west-end of Paul's,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb: 26 1658 Feb. 26"; the 9 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168541:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 95 -->
+            <p>AN EXPEDIENT FOR The Preventing any Difference BETWEEN His <hi>Highneſs</hi> and the <hi>Parliament.</hi>
+            </p>
+            <p>ABOUT
+<list>
+                  <item>The Recognition.</item>
+                  <item>The Negative Voyce.</item>
+                  <item>The Militia.</item>
+               </list>
+            </p>
+            <p>By a Lover of his Country, that deſires at this time to be Nameleſſe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> at the Black-ſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead-Eagle, at the Weſt<g ref="char:EOLhyphen"/>end of <hi>Paul's.</hi> 1659.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:168541:2"/>
+            <!-- PDF PAGE 96 -->
+            <p>THough I look not upon the preſent diſpute about the Ne<g ref="char:EOLhyphen"/>gative voyce, and the Command of the Militia, as like to give us much trouble, (for Uſurpations and Tyrannies once judg<g ref="char:EOLhyphen"/>ed by God, never recover to riſe again in the ſame forme). Yet to ſatisfie the Doubts and Fears of thoſe honeſt ſouls, who ſee not what ſtrength they have on their ſide; I ſhall deſire them to be aſſured. That there is Reaſon and Equity ſufficient to ſtop the mouth of ſuch a claime, by any ſingle Perſon in this Nation: and therefore We ſhall need no other Comprimiſe of this Differ<g ref="char:EOLhyphen"/>ence, but to reflect upon the Rice and Occaſion of this Govern<g ref="char:EOLhyphen"/>ment, from whence the Nature and power of it will beſt appear.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168541:2"/>
+            <!-- PDF PAGE 96 -->
+            <p>THe preſent forme of Government (then) as it varies from a Republick, was begotten by Ne<g ref="char:EOLhyphen"/>ceſſity. For the Nation having travers'd all the wayes of a Parliament and Counſel of State; (and ſeen all they could affoard) and at length finding through long continuance (as ſtanding waters) they did corrupt, diſcontent gathered, and fermented, and ſought where it might moſt advantagiouſly diſcover it ſelf; and ſo fell in with the power of the Army: and the perſon of the then General, whom they had found ſo ſtour and faithful, (and withall ſuccesful) and was willing to throw themſelves and their cauſe into his Armes and Protection, conſenting that he ſhould uſe any meanes, yea though he were moſt arbitrary therein, to eaſe them of their old Maſters, whom they could bear no longer. So that as I ſaid it was pure neceſſity and ſtrait that caſt us here, and not any affection to Monarchick Govern<g ref="char:EOLhyphen"/>ment. The clear intent and expectation of the honeſt people (that were acceſſory to the Devolving the power here) being: That that perſon ſhould in the name and power of God (or of his own Truth and Righteouſ<g ref="char:EOLhyphen"/>neſſe which was ſuppoſed to be in him) adminiſter the power of theſe Nations, to ſettle us in fredome and peace upon all accounts, both civil and ſpiritual: and they never dream't of a Monarch or a Family intereſt, nor did they imagine any need of cautioning it here. Though others, wiſer heads, (ſuch, who perhaps by the opportunity of their high places, had approached nearer this Temptation in their own hearts) did foreſee,
+<pb n="2" facs="tcp:168541:3"/>
+               <!-- PDF PAGE 97 -->and were aware, what might be the conſequence and product of this overhaſty credulity, and truſt as after<g ref="char:EOLhyphen"/>wards indeed it came to paſſe.</p>
+            <p>
+               <label>§. II.</label> The Protector did clearly run biaſs to the Honeſt in<g ref="char:EOLhyphen"/>tentions of thoſe, that wiſht him the adminiſtration of the Power, when he made himſelf a civil Ruler. But changes in States and Governments, being brought forth with ſuch pangs and throws, as are very uneaſie and dangerous, they are not every daies work. It was in vain to retract or withdraw the truſt committed to the General, though many disliked the way he went, nor could men believe that the late paſſages and tranſacti<g ref="char:EOLhyphen"/>ons could ever grow into ſuch oblivion, as that He, or any Man, ſhould think that this Nation ſhould be wil<g ref="char:EOLhyphen"/>ling to match the Militia and the Scepter together in the <hi>Government,</hi> but only in his <hi>Perſon;</hi> (whom, they look'd upon as an <hi>Extraordinary</hi> perſon). They having fought againſt it in the perſon of the late King.</p>
+            <p>
+               <label>§. III.</label> Hereditary ſucceſſion in the Government, being ſo much diſguſted by the Honeſt Patriots in the late Par<g ref="char:EOLhyphen"/>liament. The Nomination of the immediate ſucceſſion was indulged; his late Highneſs, as an Expedient to ſa<g ref="char:EOLhyphen"/>tisfie the then preſent, powerful, ſtrivings for Hereditary ſucceſſion, which was not neither yielded unto, but up<g ref="char:EOLhyphen"/>on a very high confidence of the <hi>Spirit</hi> and <hi>Principles</hi> of his late Highneſs, to carry him above all <hi>private</hi> re<g ref="char:EOLhyphen"/>ſpects, in the execution of the truſt of Nomination.</p>
+            <p>
+               <pb n="3" facs="tcp:168541:3"/>
+               <!-- PDF PAGE 97 -->
+               <label>§. IV.</label> His now highneſſe being in poſſeſſion of the Govern<g ref="char:EOLhyphen"/>ment, takes therewith the power of the Militia, which was inveſted in his Father (and he conceives alſo the Negative voyce) to deſcend upon him with the Civil Government. The Queſtion is whether in truth it do ſo or no? I conceive not; And firſt for the Militia, It is true, the ſupreame Command of all the Armies in the 3 Nations was in his late Highneſs; but not as he was Protector, but as General, which he was, before he was Protector. So that the Protector or Civil Govern<g ref="char:EOLhyphen"/>ment was annexed to the Militia, not the Militia to the Civil Government: or rather the power of adminiſtring to a Civil Settlement, was annexed to the Perſon, not to the Power or Office of the General; and that up<g ref="char:EOLhyphen"/>on the reputation of his Perſonal Vertue: His Military Power and Capacity ſerving onely as a ſtrength and ſecurity to him, in the due exerciſe of the power of Ci<g ref="char:EOLhyphen"/>vil Adminiſtration intruſted. So that it was not <hi>Oliver Cromwel</hi> as Protector, or the ſupreame Civil Magiſtrate that was made General; nor <hi>Oliver Cromwel</hi> as General ſimply, that was made Protector; but <hi>Oliver Cromwel</hi> General of <hi>ſuch</hi> a <hi>ſpirit,</hi> of ſuch <hi>integrity</hi> and faithfulneſs, that the <hi>like qualified Perſon</hi> was not to be found in the three Nations; that was thought fit for <hi>all the Power</hi> that could be caſt upon him.</p>
+            <p>
+               <label>§. V.</label> As for the Negative voyce as it was never diſputed with his late Highneſs (where it was ſuffered to ſleep as
+<pb n="4" facs="tcp:168541:4"/>
+               <!-- PDF PAGE 98 -->in a ſafe hand) for his Perſonal Vertues; ſo was it never (ſince it was taken away from, or rather with the King and Kingly Government) concredited, or be truſted with any Power or Perſon. And indeed it is a thing altoge<g ref="char:EOLhyphen"/>ther ſuperfluous as well as dangerous, for take away from Parliaments (who ſure in this light that is riſen upon us, cannot be imagined (from their ſource and foun<g ref="char:EOLhyphen"/>taine, the Generality and body of the Nation) to bring with them that choice diſcerning (which is ſingular) to Judge of ſpiritual things). I ſay, take a way from them the Coercive Power in things ſpiritual, and purely of the mind, and admit them (as Children of this World) to be ſo wiſe in their Generation, as to be able to Judge what is good and behoofeful for the Nation, wherein their Stakes and Intereſts lye; and what uſe will there be of a Negative Voyce in a Common-wealth as we are (or ſhould be). Where no diſtinct Perſonal or Family Intereſt, is, or ought to be owned, but what is, one with the Common-wealth, and in a ſubſerviency there<g ref="char:EOLhyphen"/>unto?</p>
+            <p>
+               <label>§. VI.</label> The Negative voyce therefore being out of Doores with Kingſhip, and we having no Civil Head, now that is Maſter of the Common-wealth, but a ſervant to it: that was ſet up for that end (though an Honourable Ser<g ref="char:EOLhyphen"/>vant, and it is fit he ſhould be ſo maintained.) The Reſolution is eaſie.</p>
+            <p>Let his preſent Highneſs be acknowledged and con<g ref="char:EOLhyphen"/>firmed as ſupreme Magiſtrate in theſe 3 Nations.</p>
+            <p>Let the Officers of the Army chooſe their General, and let him have his Commiſſion from the Protector and Parliament.</p>
+            <p>
+               <pb n="5" facs="tcp:168541:4"/>
+               <!-- PDF PAGE 98 -->
+Let his Highneſs, now being with the Parliament, have the power of Diſpoſing and Commanding theſe forces, and of making War and Peace.</p>
+            <p>The light in which theſe things do evidence, and offer themſelves to the Judgment and conſciences of men, is manifeſt,</p>
+            <p>For the firſt, a ſingle perſon cannot hurt us, if an unfit power be not concredited and betruſted with him. When we engaged againſt a King, it was not againſt a ſingle perſon ſimply; but ſo ſtated and Circumſtanced, Arbitrary, tyrannical, with a luxurious Court, a bur<g ref="char:EOLhyphen"/>denſome State, &amp;c. For this is a Principle We never intended by that engagement to engage againſt, what might be uſeful to us (no rational man would do ſo) but what we found hurtful. Therefore the ſingle Perſon may ſtand.</p>
+            <p n="2">2. When we admitted a ſingle perſon, and abated ſo much of the Circumſtance; We gave not up the ſubſtance of our Cauſe, Therefore be not baffled in that: but if We give the ſingle Perſon a Negative voyce, and the diſpoſe of the Militia, We give up the very heart and ſubſtance of our Cauſe. Therefore part not with that.</p>
+            <p>Neither indeed can his Highneſs, who is but a ſingle Perſon, expect whoever ſhould inveſt him with the ſole Command of the Militia; while the Army and the Officers thereof keep their integrity, that he can make any uſe thereof, but for publique ends, and therefore it would be <hi>Onus non honos.</hi>
+            </p>
+            <p n="3">3. It is fit his Highneſs ſhould have an <hi>Honourable,</hi> though not the <hi>Onely</hi> Intereſt in the Commanding the Militia: Therefore let him be alwayes ſought unto, to joyn with the Parliament in the diſpoſe of the Forces of the Nation.</p>
+            <p>
+               <pb n="6" facs="tcp:168541:5"/>
+               <!-- PDF PAGE 99 -->
+And as for thoſe of the Other Houſe, let them paſſe (or ſo many of them as the Parliament ſhall think fit) into the Council of State, and if they have a Con<g ref="char:EOLhyphen"/>current Vote with his Highneſſe and the Commons, yet no Negative Vote: their uſefulneſſe may be chiefly in the Vacancy of Parliaments, not to be a ballance upon the Commons: let their ballance be, that Reaſon and Righteouſneſs that is among themſelves, as to the things of this World, which is their proper Sphere.</p>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
